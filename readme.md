@@ -1,5 +1,5 @@
 # YouTube Icons
-These are the icons used by YouTube on their website
+These are the icons used by YouTube on their website.
 
 ## System Icons
 Outlined icons used since 2021.
